@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/113
     wikipedia: http://en.wikipedia.org/wiki/Henry_James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20085#The-Tragic-Muse
 gutenberg_issued: '2006-12-10'
 gutenberg_type: Text
 identifiers:
